@@ -36,29 +36,25 @@ Crypto-Final-Project/
 - Pillow library
 
 Install Pillow:
-```bash
-```
+```bash```
 pip install pillow
 
 ---
 
 ## ▶️ Usage
-1️⃣ Run the Program
+1. Run the Program
 python main.py
 
-2️⃣ Choose an Option
+2. Choose an Option
 
-Option 1: Hide a secret message inside an image
+- Option 1: Hide a secret message inside an image
+- Option 2: Extract a hidden message from an image
 
-Option 2: Extract a hidden message from an image
+3️. Follow the Prompts
 
-3️⃣ Follow the Prompts
-
-Enter image path
-
-Enter secret message (for encoding)
-
-Enter output image name
+- Enter image path
+- Enter secret message (for encoding)
+- Enter output image name
 
 ---
 
@@ -70,23 +66,18 @@ This project was developed as part of a cryptography and security course to unde
 
 ## ⚠️ Limitations
 
-No encryption applied to the message
-
-Message size depends on image size
-
-Detectable using advanced steganalysis tools
+- No encryption applied to the message
+- Message size depends on image size
+- Detectable using advanced steganalysis tools
 
 ---
 
 ## 🔒 Future Improvements
 
-Add encryption before embedding data
-
-Password-protected decoding
-
-Multi-channel (RGB) encoding
-
-Graphical User Interface (GUI)
+- Add encryption before embedding data
+- Password-protected decoding
+- Multi-channel (RGB) encoding
+- Graphical User Interface (GUI)
 
 ---
 

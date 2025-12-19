@@ -5,12 +5,14 @@ This project hides secret text inside digital images using image steganography. 
 ---
 
 ## 📂 Project Structure
-` ``` Crypto-Final-Project/
+
+Crypto-Final-Project/
 ├── main.py
 ├── steg_encode.py
 ├── steg_decode.py
-├── images/
-│ └── hidden_output.png`
+└── images/
+    └── hidden_output.png
+---
 
 ---
 
@@ -44,9 +46,11 @@ Install Pillow:
 
 ## ▶️ Usage
 
-1. Run the Program
+1. Run the program:
 
-2. Choose an Option
+python main.py
+
+2. Choose an option:
 - Option 1: Hide a secret message inside an image
 - Option 2: Extract a hidden message from an image
 python main.py
@@ -84,6 +88,4 @@ This project was developed as part of a cryptography and security course to unde
 
 ## 📜 License
 
-This project is open-source and intended for educational use.
-
----
+This project is open-source and intended for educational purposes only.

@@ -5,13 +5,12 @@ This project hides secret text inside digital images using image steganography. 
 ---
 
 ## 📂 Project Structure
-
-Crypto-Final-Project/
+` Crypto-Final-Project/
 ├── main.py
 ├── steg_encode.py
 ├── steg_decode.py
 ├── images/
-│ └── hidden_output.png
+│ └── hidden_output.png`
 
 ---
 
@@ -39,7 +38,7 @@ Crypto-Final-Project/
 - Pillow library
 
 Install Pillow:
-```pip install pillow```
+`pip install pillow`
 
 ---
 

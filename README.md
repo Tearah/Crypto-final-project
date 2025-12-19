@@ -5,7 +5,7 @@ This project hides secret text inside digital images using image steganography. 
 ---
 
 ## 📂 Project Structure
-` Crypto-Final-Project/
+` ``` Crypto-Final-Project/
 ├── main.py
 ├── steg_encode.py
 ├── steg_decode.py

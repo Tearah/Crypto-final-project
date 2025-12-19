@@ -1,6 +1,7 @@
 # Crypto-Final-Project
+<<<<<<< HEAD
 
-This project demonstrates how secret messages can be hidden inside digital images using image steganography. The message is embedded into image pixels using the Least Significant Bit (LSB) technique, making the image appear unchanged to the human eye.
+This project hides secret text inside digital images using image steganography. The purpose is to keep communication private by hiding the message itself so others do not notice it. This project is motivated by the need for privacy, data protection, and secure information sharing.
 
 ---
 
@@ -84,3 +85,6 @@ Graphical User Interface (GUI)
 📜 License
 
 This project is open-source and intended for educational use.
+=======
+This project hides secret text inside digital images using image steganography. The purpose is to keep communication private by hiding the message itself so others do not notice it. This project is motivated by the need for privacy, data protection, and secure information sharing.
+>>>>>>> 9a3bc53d6ae90ef2a5ab552695c91f550e9f7c41
